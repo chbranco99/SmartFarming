@@ -13,8 +13,10 @@ The human annotations were made by a human and are therefore prone to error: whi
 
 The machine-enhanced annotations are predictions made by an ML model.
 
-![image](https://github.com/chbranco99/SmartFarming/assets/45609008/66a7c0a2-7d1e-49d3-b53c-68212c6efa75)
-
+<p align="center">
+  <img src="https://github.com/chbranco99/SmartFarming/assets/45609008/bfeca40a-0dd4-405e-828b-2ebe489ad15a" alt="Human Annotations" width="48%">
+  <img src="https://github.com/chbranco99/SmartFarming/assets/45609008/4f0deb56-090d-439f-8947-887ff72a7faf" alt="Machine Enhanced Annotations" width="48%">
+</p>
 
 ### Images
 
