@@ -4,3 +4,8 @@ This repository contains a comprehensive dataset of images featuring Whiteflies 
 ## Structure
 
 The dataset is organized as follows:
+
+### Images
+
+
+### Annotations
